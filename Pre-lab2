@@ -1,0 +1,12 @@
+Exploratory ideas -
+
+1. A recurring alarm clock which requires a code to open
+2. A timer that goes of every hour, or every 10 mins or every 1 min based on user input
+3. A fibonacci sequence timer that buzzes every 1, 2, 3, 5, 8 mins..
+4. A simple timer that buzzes after every x mins (x being user inputted)
+5. A stopwatch that takes user input to set time and the user can start, pause and stop the watch
+6. A timer that will go off at the end of century, showing a countdown
+7. A timer that buzzes once at 1:00, twice at 2:00 and so on.
+8. Morse code reader - depending on the time between two inputs, it's either dash or dot.
+9. A timer that goes of if the user doesn't press a button within x-mins.
+10. A timer that starts with a button press, but only ends with a code press.
