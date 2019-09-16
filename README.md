@@ -25,7 +25,8 @@ int noteDuration = 1000 / noteDurations[thisNote]/2;
 I think it's the star wars
 
 ###### a. Make a short video showing how your timer works, and what happens when time is up!
-[Timer](https://youtu.be/M6u6lQ4u8rU)
+[Timer Video](https://youtu.be/M6u6lQ4u8rU)
+
 The timer works as a state machine. 
 * To start, you press the button at the centre of the breadboard.
 * You are taken to the "main menu" state where you can select the following -
