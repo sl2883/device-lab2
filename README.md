@@ -24,7 +24,7 @@ int noteDuration = 1000 / noteDurations[thisNote]/2;
 ##### What song is playing?
 I think it's the star wars
 
-###### a. Make a short video showing how your timer works, and what happens when time is up!
+##### Make a short video showing how your timer works, and what happens when time is up!
 [Timer Video](https://youtu.be/M6u6lQ4u8rU)
 
 The timer works as a state machine. 
@@ -36,7 +36,7 @@ The timer works as a state machine.
 * When you press the button for "Set Timer", you are taken to a new state where you can use the rotatory encoder to input time. * On next press, you are given the option to start timer or go back. 
 * On press, the timer starts and when it finishes, the "Star wars" music plays.
 
-###### b. Post a link to the completed lab report your GitHub repo.
+##### Post a link to the completed lab report your GitHub repo.
 [Timer Code](https://github.com/sl2883/device-lab2/blob/master/timer.ino)
 
 
